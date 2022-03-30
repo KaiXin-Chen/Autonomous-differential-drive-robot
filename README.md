@@ -11,8 +11,7 @@ After the map is fully known, the robot can then achieve full autonomous motion.
 ## Approach Overview
 ### Architecture
 The system architecture is howen below
-
-
+![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/Architecture.png)
 ### State Machine
 Below showns more details about the state machine
 
