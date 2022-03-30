@@ -7,16 +7,13 @@ According to the requirement of the class project, our robot is initialized in a
 First we use gazebo and rViz to simulate and manually manipulate the robot in a unkown enviroment. As the map is unknown, the person manupulating should help robot avoid unseen obstacles at this stage. The robot will use the ladar signal to construct a map as it explores. Also, there should be multiple objects in this enviroment. We chose to have animals (very important for the next stage), pedestrian, stop sign and speed limit sign in our enviroment. The robot should also be able to identify these objects and record the location of these objects. We decide to also mark these positions on rviz using markers. 
 ### Autonomous stage
 After the map is fully known, the robot can then achieve full autonomous motion. We should design an interface so the robot can then visit that given animal autonomously.
-
 ## Approach Overview
 ### Architecture
 The system architecture is howen below
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/Architecture.png)
 ### State Machine
 Below showns more details about the state machine
-
-
-
+![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/State_machine.png)
 ## Result Overview
 As the enviroment is fairly simple, we can achieve successful autonomous motion everytime when a destenation was set. Also we recieved full marks for the project demo.
 ### Exploration stage
