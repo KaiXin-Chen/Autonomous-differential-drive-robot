@@ -11,7 +11,7 @@ After the map is fully known, the robot can then achieve full autonomous motion.
 ### Architecture
 The system architecture is shown below
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/Architecture.png)
-In the exploration stage the user manually control the robot using rViz shown by the "Set Goal" arrow. In contrast in the autonomous stage, the user only need to initiate "Rescuer" by running a python file shown by the "run Python arrow"
+<br>In the exploration stage the user manually control the robot using rViz shown by the "Set Goal" arrow. In contrast in the autonomous stage, the user only need to initiate "Rescuer" by running a python file shown by the "run Python arrow"
 ### State Machine
 Below showns more details about the state machine
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/State_machine.png)
