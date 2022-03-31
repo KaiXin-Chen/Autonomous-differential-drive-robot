@@ -1,15 +1,4 @@
 
-goal
-1/5
-Untitled document
-Saved
-6,322 characters
-DOCUMENT
-EDIT
-ACCOUNT
-FREE
-Kaixin Chen
-wchenkaixin@gmail.com
 # Autonomous-differential-drive-robot
 
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/StopSign.png)
