@@ -1,4 +1,5 @@
 # Autonomous-differential-drive-robot
+![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/StopSign.png)
 ## Basic info
 This is the course project for Stanford cs237a (principle of robot autonomy) class. Contributors are Hao Li, Ran Li, Kaixin Chen and Zhengyang Wei. We employed the "ASL turtlebot" package built by the course instructors and implemented a variety of functions (in Python), ROS nodes, ROS topics, publishers and subscribers to achieve autonomous motion in some certain enviroment. Note that because of the requirments of the Stanford honor code, the code cannot be made public, so please contact me at kaixinc@stanford.edu if you want to learn more about the project. Note that this document is entire written by Kaixin Chen, so this document do not represent the perspectives of other groupmates in my group.
 ## Problem statement
