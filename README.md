@@ -13,7 +13,7 @@ When the map is fully known, the positions of all obstacles are known, so the ro
 The system architecture is shown below
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/Architecture.png)
 <br>In the exploration stage the user manually controls the robot using rViz shown by the "Set Goal" arrow. Meanwhile, the detector (basically a convolutional neural network) is actively looking for animals, pedestrians and etc. In contrast in the autonomous stage, the user only needs to initiate "Rescuer" by running a python file shown by the "run Python arrow". This will initialize a publisher and help the user publish the animal that the user wants the robot to visit.
-<br>Once the desired destination is known to the robot, the Supervisor ROS node works with the navigator ROS node, where the navigator node is in charge of planning the path a closed-loop control of the robot and the state machine in the supervisor is in charge of handling multiple exception cases that the robot will encounter, for example, seeing a stop sign and seeing a speed limit.
+<br>Once the desired destination is known to the robot, the Supervisor ROS node works with the navigator ROS node, where the navigator node is in charge of planning the path and closed-loop control of the robot and the state machine in the supervisor is in charge of handling multiple exception cases that the robot will encounter, for example, seeing a stop sign and seeing a speed limit.
 ### State Machine
 Below shown more details about the state machine
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/State_machine.png)
