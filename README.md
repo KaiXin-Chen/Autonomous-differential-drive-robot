@@ -24,5 +24,5 @@ In the autonomous stage, the robot can achieve successful autonomous motion ever
 Our robot is capable of successfully constructing a map. Meanwhile, any user with some knowledge about the robot can manipulate the robot successfully with no collision in this stage.
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/exploration.png)
 ### Autonomous stage
-It can achieve full autonomous motion without any user effort except by typing the desired destination (which animal to rescue) in the terminal. (The green line in the rViz window is the automatically planned path. The blue, red, cyan and green points in rViz are the markers that make the position of different animals)
+It can achieve full autonomous motion without any user effort except by typing the desired destination (which animal to rescue) in the terminal. (The green line in the rViz window is the automatically planned path. The blue, red, cyan and green points in rViz are the markers that marks the position of different animals)
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/autonomous.png)
