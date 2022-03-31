@@ -19,7 +19,7 @@ The system architecture is shown below
 The image below shows more details about the state machine. The NAV mode is the default mode for driving, where stop mode and limit mode are for the special cases of seeing a stop sign and seeing a speed limit sign. The cross mode is to prevent the robot from being stuck in front of a stop sign.
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/State_machine.png)
 ## Result Overview
-As the environment is fairly simple, we can achieve successful autonomous motion every time when a destination was set. Also, we received full marks for the project demo.
+In the autonomous stage, the robot can achieve successful autonomous motion every time. Also, we received full marks for the project demo.
 ### Exploration stage
 Our robot is capable of successfully constructing a map. Meanwhile, any user with some knowledge about the robot can manipulate the robot successfully with no collision in this stage.
 ![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/exploration.png)
