@@ -20,3 +20,6 @@ Below showns more details about the state machine
 As the enviroment is fairly simple, we can achieve successful autonomous motion everytime when a destenation was set. Also we recieved full marks for the project demo.
 ### Exploration stage
 Our robot is capable of successfully contructing the map and record the 
+![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/exploration.png)
+### Autonomous stage
+![](https://github.com/KaiXin-Chen/Autonomous-differential-drive-robot/blob/main/autonomous.png)
